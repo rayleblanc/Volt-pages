@@ -1,0 +1,6 @@
+{
+  "name": "VOLT Paywall Landing Pages",
+  "description": "A collection of static landing pages for VOLT Paywall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
